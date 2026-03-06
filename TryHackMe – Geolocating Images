@@ -1,0 +1,38 @@
+# 📍 TryHackMe – Geolocating Images Write-up
+
+This repository contains my solutions and methodology for the **Geolocating Images** room on **TryHackMe**.  
+It demonstrates how to identify the location of images using OSINT techniques.
+
+Room Link: https://tryhackme.com/room/geolocatingimages
+
+---
+
+## 🖼 Image Analysis & Answers
+
+| Image | Answer | Method |
+|-------|--------|--------|
+| Image 1 | China | Google & Yandex reverse image search |
+| Image 2 | Wrigleyville Sports | Observation + Google Maps |
+| Image 3 | Meudon Observatory | Shodan (Used Shodan query: city:Meudon has_screenshot:true) & Google Maps |
+| Image 4 | Abbey Road | Landmark recognition + Google Maps |
+
+---
+
+## 🔧 Tools Used
+
+- **Google Reverse Image Search** – Visual matching  
+- **Yandex Reverse Image Search** – Stronger visual recognition  
+- **Google Maps** – Location verification  
+- **Shodan** – OSINT for webcams and IoT devices  
+
+---
+
+## 🧠 Key OSINT Techniques Practiced
+
+1. Reverse image search  
+2. Visual clue analysis  
+3. Map verification  
+4. IoT & device intelligence (Shodan)  
+5. Landmark identification  
+
+---
