@@ -2,6 +2,7 @@
 
 Difficulty: Easy  
 Category: OSINT
+Room Link: https://tryhackme.com/room/ohsint
 
 ---
 
